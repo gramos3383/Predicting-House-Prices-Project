@@ -16,5 +16,4 @@
     "\n",
     "First off, let's load the dataset through torchvision."
    ]
-  }
- }
+  }}
